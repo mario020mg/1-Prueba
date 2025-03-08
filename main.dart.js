@@ -38005,7 +38005,7 @@ A.Ie.prototype={
 hl(a,b){var s=null
 return A.a3I(A.b([new A.b1(B.iC,A.dx(new A.tu("",B.m,A.ah("Ejercicio De Contabilidad",s,s,s,A.P(a).p2.e,s,s),s),s,s),s),A.dx(new A.FM(b.fb($.WI(),t.H9),s),s,s)],t.p),s)}}
 A.anr.prototype={
-$1(a){return new A.iJ("Alquiler de Local",new A.Hm(),A.b([],t.OX),!0,2)},
+$1(a){return new A.iJ("Alquiler de Local",new A.Hm(),A.b([],t.OX),!0,0)},
 $S:215}
 A.FM.prototype={
 hl(a,b){var s,r,q,p,o,n=null,m=this.e,l=m.e,k=l===4
